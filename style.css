@@ -1,0 +1,83 @@
+body{
+  background-color: #3598dc;
+  font-family: Arial;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Login Form */
+.login {
+  background: white;
+  width: 294px;
+  padding: 16px 24px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  margin: 260px auto 0px;
+  text-align: center;
+}
+
+/* Login Head */
+.login .login_h {
+
+}
+
+.login .login_h_t {
+  color: #6e757d;
+  font-size: 34px;
+  margin-bottom: 24px;
+}
+
+/* Login Body */
+.login .login_b {
+
+}
+
+.login .login_b .login_b_it {
+   border: none;
+   background: #dcdddf;
+   padding: 16px 24px;
+   border-radius: 2px;
+   text-align: center;
+   margin-bottom: 12px;
+   font-size: 16px;
+   display: block;
+   width: 100%;
+   font-weight: normal;
+}
+
+.login .login_b .login_b_ip {
+   border: none;
+   background: #dcdddf;
+   padding: 16px 24px;
+   border-radius: 2px;
+   text-align: center;
+   font-size: 16px;
+   display: block;
+   width: 100%;
+   margin-bottom: 12px;
+}
+
+/*  Login Footer */
+.login .login_f {
+
+}
+
+.login .login_f .login_f_btn {
+   border: none;
+   background: #3598dc;
+   padding: 16px 24px;
+   border-radius: 2px;
+   text-align: center;
+   font-size: 12px;
+   display: block;
+   width: 100%;
+   color: white;
+   margin-bottom: 12px;
+}
+
+.login .login_f .login_f_a {
+  font-size: 13px;
+  color: #656565;
+}
