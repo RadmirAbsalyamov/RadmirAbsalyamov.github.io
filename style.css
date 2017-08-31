@@ -12,7 +12,7 @@ body{
   background: white;
   width: 294px;
   padding: 16px 24px;
-  border-radius: 5px;
+  border-radius: 8px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.15);
   margin: 230px auto 0px;
   text-align: center;
@@ -38,7 +38,7 @@ body{
    border: none;
    background: #dcdddf;
    padding: 16px 24px;
-   border-radius: 2px;
+   border-radius: 8px;
    text-align: center;
    margin-bottom: 12px;
    font-size: 16px;
@@ -51,7 +51,7 @@ body{
    border: none;
    background: #dcdddf;
    padding: 16px 24px;
-   border-radius: 2px;
+   border-radius: 8px;
    text-align: center;
    font-size: 16px;
    display: block;
@@ -68,7 +68,7 @@ body{
    border: none;
    background: #3598dc;
    padding: 16px 24px;
-   border-radius: 2px;
+   border-radius: 8px;
    text-align: center;
    font-size: 12px;
    display: block;
