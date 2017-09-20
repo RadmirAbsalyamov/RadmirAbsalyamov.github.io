@@ -4,6 +4,8 @@ body{
 }
 
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -20,13 +22,14 @@ body{
 
 /* Login Head */
 .login .login_h {
-
+  
 }
 
 .login .login_h_t {
   color: #6e757d;
   font-size: 34px;
-  margin-bottom: 24px;
+  margin-bottom: 25px;
+  margin-top: 25px;
 }
 
 /* Login Body */
@@ -80,4 +83,5 @@ body{
 .login .login_f .login_f_a {
   font-size: 13px;
   color: #656565;
+  cursor: pointer;
 }

@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+	position: relative;
+}
+
+.container_h {
+	text-align: center;
+	margin-top: 70px;
+}
+
+.icon {
+	color: gold;
+	position: absolute;
+	top: 52px;
+	left: 670px;
+}
+
+.container_image {
+	width: 600px;
+	height: 460px;
+	margin: 100px auto 0;
+}
